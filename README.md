@@ -12,9 +12,11 @@ Describe the core features of the project (what does it do?) in the form of a bu
 - Feature #2
 - Feature #3
 
-## Getting Started
+## OFPEC Tags
 
-Provide installation instructions, general usage guidance, API examples, and build and deployment information. Assume as little prior knowledge as possible, describing everything in clear and coherent steps. Avoid words such as "just" and "simple," which can be off putting to users who do not understand the instructions.
+An OFPEC tag is a three to five letter identifier that is unique to each designer and is used as a prefix to variables in addons and scripts to avoid global namespace conflicts with other addons and scripts.
+All tags will be followed by an underscore (whether you include one or not) and that's how they should be used when naming variables and files: TAG_namespace.
+http://www.ofpec.com/tags/index.php?action=details&tag_id=4565
 
 ### Installation/Dependencies
 
