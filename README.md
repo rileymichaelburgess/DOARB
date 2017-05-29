@@ -1,6 +1,5 @@
 # DOARB
-
-Provide a brief (1 paragraph or less), meaningful description of the project and what it does. If the project has a UI, include a screenshot as well.
+this is the phillip island Terrain
 
 ## OFPEC Tags
 
@@ -10,7 +9,13 @@ http://www.ofpec.com/tags/index.php?action=details&tag_id=4565
 
 ### Installation/Dependencies
 
-How does a user get up and running with your project? What dependencies does the project have? Aim to describe these in clear and simple steps. Provide external links
+You will need
+Arma 3
+Arma 3 Tools
+Arma 3 Samples
+Mikero Tools
+Notepad++
+To contribute to this terrain
 
 ### Usage
 
@@ -19,10 +24,6 @@ Provide clear examples of how the project may be used. For large projects with e
 ## Contributing Guidelines
 
 Include instructions for setting up the development environment, code standards, running tests, and submitting pull requests. Aim to be inclusive and welcoming. It may be useful to link to a seperate CONTRIBUTING.md file. See this example from the Hoodie project as an exemplar: https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md
-
-## Code of Conduct
-
-Open Source projects should follow a code of conduct. Provide a link to the Code of Conduct for your project. I recommend using the Contributor Covenant: http://contributor-covenant.org/
 
 ## License
 
