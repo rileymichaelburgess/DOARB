@@ -2,16 +2,6 @@
 
 Provide a brief (1 paragraph or less), meaningful description of the project and what it does. If the project has a UI, include a screenshot as well.
 
-If more comprehensive documentation exists, link to it here.
-
-## Features
-
-Describe the core features of the project (what does it do?) in the form of a bulleted list:
-
-- Feature #1
-- Feature #2
-- Feature #3
-
 ## OFPEC Tags
 
 An OFPEC tag is a three to five letter identifier that is unique to each designer and is used as a prefix to variables in addons and scripts to avoid global namespace conflicts with other addons and scripts.
@@ -25,18 +15,6 @@ How does a user get up and running with your project? What dependencies does the
 ### Usage
 
 Provide clear examples of how the project may be used. For large projects with external documentation, provide a few examples and link to the full docs here.
-
-### Build/Deployment
-
-If the user will be building or deploying the project, add any useful guidance.
-
-## Getting Help
-
-What should users do and expect when they encounter bugs or get stuck using your project? Set expectations for support, link to the issue tracker and roadmap, if applicable.
-
-Where should users go if they have a question? (Stack Overflow, Gitter, IRC, mailing list, etc.)
-
-If desired, you may also provide links to core contributor email addresses.
 
 ## Contributing Guidelines
 
